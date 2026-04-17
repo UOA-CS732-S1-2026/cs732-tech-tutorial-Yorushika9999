@@ -1,3 +1,4 @@
+HanzeZhang 427431645
 React Three Fiber 3D Demo
 This project is a simple 3D demo built with React Three Fiber (R3F).
 It includes three different 3D scenes:
@@ -55,7 +56,7 @@ Right mouse drag → pan
 Click → scale object
 Hover → color change (Cube & Text)
 
-📁 Project Structure
+Project Structure
 Code
 src/
  ├─ App.jsx          // Main scene switcher
