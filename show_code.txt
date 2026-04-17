@@ -1,0 +1,8 @@
+jsx
+<boxGeometry args={[1.5, 1.5, 1.5]} />
+
+jsx
+// sphereGeometry
+<sphereGeometry args={[1, 32, 32]} />
+
+<torusGeometry args={[1, 0.4, 16, 32]} />
